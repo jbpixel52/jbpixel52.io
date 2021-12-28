@@ -7,10 +7,9 @@ body {
 
 @font-face {
     font-family: "Sinistre-StCaroline";
-    src: url("/Sinistre/web/Sinistre-StCaroline.woff2") format("woff2"),
-        url("/Sinistre/web/Sinistre-StCaroline.woff") format("woff");
+    src: url("Sinistre/web/Sinistre-StCaroline.woff2") format("woff2"),
+        url("Sinistre/web/Sinistre-StCaroline.woff") format("woff");
 }
-
 @keyframes rainbow {
     0% {
         text-shadow: 0px 0px 2px #fff,
