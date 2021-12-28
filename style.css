@@ -6,9 +6,9 @@ body {
 
 
 @font-face {
-    font-family: "Sinistre";
-    src: url("https://github.com/jbpixel52/jbpixel52.io/blob/01b08f0ae39844cabe8d99da465633dcfa4433fa/Sinistre/web/Sinistre-StCaroline.woff2") format("woff2"),
-        url("https://github.com/jbpixel52/jbpixel52.io/blob/01b08f0ae39844cabe8d99da465633dcfa4433fa/Sinistre/web/Sinistre-StCaroline.woff") format("woff");
+    font-family: "Sinistre-StCaroline";
+    src: url("/Sinistre/web/Sinistre-StCaroline.woff2") format("woff2"),
+        url("/Sinistre/web/Sinistre-StCaroline.woff") format("woff");
 }
 
 @keyframes rainbow {
@@ -105,15 +105,15 @@ body {
 }
 
 h1 {
-    font-family: Sinistre;
-    margin-top: 0px;
+    font-family: Sinistre-StCaroline;
+    margin-top:10px;
     margin-bottom: 50px;
     text-align: center;
-    font-size: 3rem;
+    font-size: 4rem;
     letter-spacing: 0.15rem;
     text-transform: uppercase;
     color: transparent;
-    text-shadow: 0px 0px 1px #fff,
+    text-shadow: 0px 0px 0px #fff,
         -4px 4px 3px #ef3550,
         -8px 8px 3px #f48fb1,
         -12px 12px 3px #7e57c2,
