@@ -25,12 +25,23 @@ h1 {
 }
 
 h2 {
-    color:#eeff41;
-    text-shadow: -1px 1px#2196f3,
+    color:#fff;
+    text-shadow: -2px 2px#2196f3,
     -3px 3px #ef3550;
 }
 .bodytext{
     color:#fff;
     background-color: #282727;
     text-align: justify;
+}
+
+footer{
+    background-color:#eeff41;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    height: fit-content;
+    text-align: center;
+    text-decoration:none
 }
