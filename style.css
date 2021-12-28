@@ -130,9 +130,7 @@ h1 {
 }
 
 h2 {
-    color: #fff;
-    text-shadow: -2px 2px#2196f3,
-        -3px 3px #ef3550;
+    color: #f48fb1;
 }
 
 .bodytext {
@@ -142,7 +140,7 @@ h2 {
 }
 
 footer {
-    background-color: #fff;
+    background-color: #eeff41;
     color: black;
     position: fixed;
     bottom: 0;
