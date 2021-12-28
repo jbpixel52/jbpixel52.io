@@ -7,8 +7,8 @@ body {
 
 @font-face {
     font-family: "Sinistre";
-    src: url("/Sinistre/web/Sinistre-StCaroline.woff2") format("woff2"),
-        url("/Sinistre/web/Sinistre-StCaroline.woff") format("woff");
+    src: url("https://github.com/jbpixel52/jbpixel52.io/blob/01b08f0ae39844cabe8d99da465633dcfa4433fa/Sinistre/web/Sinistre-StCaroline.woff2") format("woff2"),
+        url("https://github.com/jbpixel52/jbpixel52.io/blob/01b08f0ae39844cabe8d99da465633dcfa4433fa/Sinistre/web/Sinistre-StCaroline.woff") format("woff");
 }
 
 @keyframes rainbow {
