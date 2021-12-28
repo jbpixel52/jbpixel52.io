@@ -6,13 +6,13 @@ body {
 
 
 @font-face {
-    font-family: "FONT NAME";
+    font-family: "Sinistre";
     src: url("/Sinistre/web/Sinistre-StCaroline.woff2") format("woff2"),
          url("/Sinistre/web/Sinistre-StCaroline.woff") format("woff");
   }
   
 h1 {
-    font-family:woff;
+    font-family: Sinistre;
     margin-top: 0px;
     margin-bottom: 50px;
     text-align: center;
