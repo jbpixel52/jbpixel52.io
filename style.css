@@ -2,14 +2,21 @@ body {
     background-color: black;
     font-family: monospace;
     color: white;
+    background-image: linear-gradient(180deg,
+            hsl(44deg 95% 67%) 0%,
+            hsl(39deg 97% 60%) 32%,
+            hsl(35deg 99% 54%) 51%,
+            hsl(29deg 100% 50%) 65%,
+            hsl(20deg 100% 50%) 79%,
+            hsl(0deg 100% 50%) 100%);
 }
-
 
 @font-face {
     font-family: "Sinistre-StCaroline";
     src: url("Sinistre/web/Sinistre-StCaroline.woff2") format("woff2"),
         url("Sinistre/web/Sinistre-StCaroline.woff") format("woff");
 }
+
 @keyframes rainbow {
     0% {
         text-shadow: 0px 0px 2px #fff,
@@ -104,8 +111,8 @@ body {
 }
 
 h1 {
-    font-family: Sinistre-StCaroline,monospace;
-    margin-top:10px;
+    font-family: Sinistre-StCaroline, monospace;
+    margin-top: 10px;
     margin-bottom: 50px;
     text-align: center;
     font-size: 4rem;
